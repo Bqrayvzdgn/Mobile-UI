@@ -1,8 +1,8 @@
 <script>
-  export let name;
-  export let surname;
-  export let nickname;
-  export let text;
+  // export let name;
+  // export let surname;
+  // export let nickname;
+  // export let text;
   export let operation;
   export let clock;
   export let date;
