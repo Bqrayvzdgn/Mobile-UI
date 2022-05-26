@@ -23,7 +23,7 @@
       </div>
       <div id="operation">{operation}</div>
       <div id="battery">
-        <img src="/img/battery.png" alt="Pil" /> 
+        <img src="/img/battery.png" alt="Pil" />
       </div>
       <div id="lock">
         <img src="/img/lock.png" alt="Kilit" />
@@ -89,7 +89,7 @@
   }
   /* ---------------------------------- */
   #inner-phone {
-    background-image: url(/img/background.jpg);
+    background-image: url(/img/backgraund.jpg);
     background-size: cover;
     border-radius: 25px;
     width: 280px;
