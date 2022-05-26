@@ -34,8 +34,6 @@
       <div id="unlock-key">{unlock_key}</div>
     </div>
   </div>
-  <div id="text">{name} "{nickname}" {surname}</div>
-  <div id="text">{text}</div>
 </main>
 
 <style>
@@ -177,13 +175,4 @@
     width: 180px;
   }
   /* ------------ */
-  /* Yazı */
-  #text {
-    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-    font-size: small;
-    text-align: center;
-    position: relative;
-    top: -10px;
-  }
-  /* ---- */
 </style>
