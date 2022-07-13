@@ -1,8 +1,4 @@
 <script>
-  // export let name;
-  // export let surname;
-  // export let nickname;
-  // export let text;
   export let operation;
   export let clock;
   export let date;
@@ -44,7 +40,7 @@
   }
   #phone {
     background-color: rgb(0, 0, 0);
-    margin: 25px auto;
+    margin: 50px auto;
     width: 310px;
     max-width: 310px;
     height: 600px;

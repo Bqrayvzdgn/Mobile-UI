@@ -3,10 +3,6 @@ import App from "./App.svelte";
 const app = new App({
   target: document.body,
   props: {
-    // name: "Buğrahan",
-    // surname: "Yavuzdoğan",
-    // nickname: "BQRDEV",
-    // text: "Mobile UI Design",
     operation: "vodefone TR",
     clock: "01:07",
     date: "11 Mart Cuma",
