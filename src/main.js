@@ -3,7 +3,7 @@ import App from "./App.svelte";
 const app = new App({
   target: document.body,
   props: {
-    operation: "vodefone TR",
+    operation: "Turkcell LTE",
     clock: "01:07",
     date: "11 Mart Cuma",
     remaining_battery: "%98",
